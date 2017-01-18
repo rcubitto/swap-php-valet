@@ -1,6 +1,8 @@
 # swap-php-valet
 A bash command to swap PHP versions for Laravel Valet, using Hombrew.
 
+Inspired by [this](https://dyrynda.com.au/blog/switching-php-versions-with-laravel-valet)  tutorial by [Michael Dyrynda](https://twitter.com/michaeldyrynda)
+
 # Requirements
 - Homebrew
 - PHP
