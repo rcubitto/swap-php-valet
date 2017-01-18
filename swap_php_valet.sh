@@ -45,6 +45,5 @@ function phpswap()
 	done
 	
 	brew link $newBundle
-	brew services start $newBundle
 	valet install
 }
