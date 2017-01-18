@@ -24,6 +24,3 @@ phpswap 70
 ```
 
 It basically matches the PHP version, among the version you have installed (`brew list | grep php` to double check).
-
-# Known issue
-For some reason, even though we start the PHP service as the current user, it somehow swaps it to the `root` user (_oh, the irony!_). That means, the service will be started as root. This is something we take care of when stopping each service.
