@@ -7,7 +7,9 @@ A bash command to swap PHP versions for Laravel Valet, using Hombrew.
 - Laravel Valet
 
 # Installation
-Add this script to your `.bash_profile` or import it using your own method.
+Add this script to your `.bash_profile` or import it using your own method. 
+
+You may download the script directly running `curl -O https://raw.githubusercontent.com/rcubitto/swap-php-valet/master/swap_php_valet.sh`
 
 # Usage
 
